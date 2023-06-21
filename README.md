@@ -10,16 +10,14 @@ The website is developed using *Flask* and deployed on *PythonAnywhere*.
     ├── static/
     │   ├── icon.png
     │   ├── database/
-    │   │   ├── 0/
-    │   │   │   └── img/
-    │   │   └── 1/
-    │   │   │   ├── img/
-    │   │   │   └── 1.csv
-    │   │   └── 2/
-    │   │       ├── img/
-    │   │       └── 2.csv
-    │   └── static/
-    │       └── style.css
+    │       ├── 0/
+    │       │   └── img/
+    │       └── 1/
+    │       │   ├── img/
+    │       │   └── 1.csv
+    │       └── 2/
+    │           ├── img/
+    │           └── 2.csv
     ├── templates/
     │   └── index.html
     ├── flask_app.py
