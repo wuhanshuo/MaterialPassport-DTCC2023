@@ -21,4 +21,4 @@ The website is developed using *Flask* and deployed on *PythonAnywhere*.
     ├── templates/
     │   └── index.html
     ├── flask_app.py
-    └── readme.md
+    └── README.md
