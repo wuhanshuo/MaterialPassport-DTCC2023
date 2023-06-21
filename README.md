@@ -14,10 +14,10 @@ The website is developed using *Flask* and deployed on *PythonAnywhere*.
     │   │   │   └── img/
     │   │   └── 1/
     │   │   │   ├── img/
-    │   │   │   └── 001.csv
+    │   │   │   └── 1.csv
     │   │   └── 2/
     │   │       ├── img/
-    │   │       └── 002.csv
+    │   │       └── 2.csv
     │   └── static/
     │       └── style.css
     ├── templates/
