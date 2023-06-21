@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Material Passport</title>
+  <link rel="icon" type="image/x-icon" href="static/icon.png">
+  <style>
+    /*
+    =========================
+    Fonts
+    =========================
+
+    font-family: 'Outfit', sans-serif;
+
+    */
+
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+    /*
+    ========================
+    Variables
+    ========================
+    */
+
+
+    :root {
+
+        font-size: 15px;
+
+        /* Primary */
+        --var-soft-blue: hsl(215, 51%, 70%);
+        --var-cyan: hsl(178, 100%, 50%);
+        /* Neutral */
+        --var-main-darkest: hsl(217, 54%, 11%);
+        --var-card-dark: hsl(216, 50%, 16%);
+        --var-line-dark: hsl(215, 32%, 27%);
+        --var-lightest: white;
+
+        /* Fonts */
+
+        --var-heading: normal normal 600 1.5em/1.6em 'Outfit', sans-serif;
+
+        --var-small-heading: normal normal 400 1em/1em 'Outfit', sans-serif;
+
+        --var-para: normal normal 300 1em/1.55em 'Outfit', sans-serif;
+    }
+
+    /*
+    =======================
+    Setup
+    =======================
+    */
+
+    html {
+        box-sizing: border-box;
+    }
+
+    *, *::before, *::after {
+        box-sizing: inherit;
+        margin: 0;
+    }
+
+    body {
+        background-color: var(--var-main-darkest);
+    }
+
+    img {
+        width: 100%;
+        border-radius: 15px;
+        display: block;
+    }
+
+    a {
+        color: inherit;
+    }
+
+    /*
+
+    Eye view
+
+    https://i.postimg.cc/9MtT4GZY/view.png' border='0' alt='view */
+
+    /*
+    =========================
+    Font Styling
+    =========================
+    */
+
+    h1 {
+        font: var(--var-heading);
+        color: var(--var-lightest);
+        padding: 1.2em 0;
+    }
+
+    h2 {
+        font: var(--var-small-heading);
+        color: var(--var-lightest);
+        /* padding on .coin-base */
+    }
+
+    p {
+        font: var(--var-para);
+        color: var(--var-soft-blue);
+    }
+
+    span {
+        color: white;
+    }
+    /*
+    =====================
+    Classes
+    =====================
+    */
+
+    /* LAYOUT */
+
+    .card-container {
+        background-color: #282c34;
+        background: linear-gradient(0deg, rgba(40,44,52,1) 0%, rgba(17,0,32,.5) 100%);
+        box-shadow: 0 7px 20px 5px #00000088;
+        backdrop-filter: blur(7px);
+        -webkit-backdrop-filter: blur(7px);
+        overflow: hidden;
+        transition: .5s all;
+        width: 90%;
+        max-width: 400px;
+        margin: 2em auto;
+        border-radius: 15px;
+        margin-bottom: 1rem;
+        padding: 2rem;
+    }
+
+    div.flex-row {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    div.coin-base, .time-left, .card-attribute {
+        display: flex;
+        align-items: center;
+        padding: 1em 0;
+    }
+
+    .card-attribute {
+        padding-bottom: 1.5em;
+        border-top: 2px solid var(--var-line-dark);
+    }
+
+    a.hero-image-container {
+        position: relative;
+        display: block;
+    }
+
+
+
+    /* Details */
+
+    img.eye {
+        position: absolute;
+        width: 100%;
+        max-width: 2em;
+        top: 44%;
+        left: 43%;
+    }
+
+    @media (min-width:400px) {
+      img.eye {
+        max-width: 3em;
+    }
+    }
+
+    .small-image {
+        width: 0.8em;
+        margin-right: .5em;
+    }
+
+    .small-avatar {
+        width: 2em;
+        border-radius: 200px;
+        outline: 2px solid white;
+        margin-right: 1.4em;
+    }
+
+    div.attribution {
+        margin: 0 auto;
+        width: 100%;
+        font: var(--var-para);
+        text-align: center;
+        padding: 1.5em 0 4em 0;
+        color: var(--var-line-dark);
+    }
+    .attribution a {
+        color: var(--var-soft-blue);
+    }
+
+    @media (min-width:600px) {
+        body {
+            font-size: 18px;
+        }
+    }
+
+    .bg{
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      h1{
+        font-size: 20rem;
+        filter: opacity(0.5);
+      }
+    }
+
+  </style>
+
+</head>
+
+
+<body>
+  <div class="bg">
+    <h1>cea database group</h1>
+  </div>
+  <div class="card-container">
+      <a>
+        <img src="static/database/{{data.db}}/img/{{ data.ID }}.jpg" />
+      </a>
+      <main>
+        <h1 id='projectName'><span><u>{{ data.projectName }}</span></u></h1>
+        <p> {{ data.magic }} </p>
+        <div id='information'>
+            <p id='ID'><b>id</b>: {{ data.ID }}</p>
+            <p id='lifecycle'><b>Lifecycle</b>: {{ data.lifecycle }}</p>
+            <p id='location'><b>Description</b>: {{ data.location }}</p>
+            <p id='material'><b>Material</b>: {{ data.material }}</p>
+            <p id='height'><b>Height</b>: {{ data.height }} mm</p>
+            <p id='length'><b>Length</b>: {{ data.length }} mm</p>
+            <p id='width'><b>Width</b>: {{ data.width }} mm</p>
+            <p id='volume'><b>Volume</b>: {{ data.volume }} m³</p>
+            <p id='mass'><b>Mass</b>: {{ data.mass }} kg</p>
+            <p id='area'><b>Area</b>: {{ data.area }} m² </p>
+            <p id='epicMaterial'><b>Materials in EPiC DB</b>: {{ data.epicMaterial }} </p>
+            <p id='epicUnit'></p>
+            <p id='density'><b>Density</b>: {{ data.density }} kg/m³</p>
+            <p id='embodiedEnergy'><b>Embodied Energy</b>: {{ data.embodiedEnergy }} kJ</p>
+            <p id='embodiedWater'><b>Embodied Water</b>: {{ data.embodiedWater }} L</p>
+            <p id='embodiedEmission'><b>Embodied Emission</b>: {{ data.embodiedEmission }} kgCO2</p>
+            <p id='manuDate'><b>Manufacture Date</b>: {{ data.manuDate }}</p>
+            <p id='manuPlace'><b>Manufacture Place</b>: {{ data.manuPlace }}</p>
+            <p id='installDate'><b>Installation Date</b>: {{ data.installDate }}</p>
+            <p id='removalDate'><b>Removal Date</b>: {{ data.removalDate }}</p>
+            <p id='owner'><b>Owner</b>: {{ data.owner }}</p>
+            <p id='value'><b>Value at Installation</b>: {{ data.value }} CHF</p>
+            <p id='connection'><b>Connected to</b>: <a href="https://dtcc2023.pythonanywhere.com/?db={{ data.db }}&id={{data.connection}}">{{ data.connection }}</a></p>
+            <p id='remarks'><b>Remarks</b>: {{ data.remarks }}</p>
+        </div>
+
+
+
+        <div class="flex-row">
+          <div class="coin-base">
+            <div id='upstream' class="coin-base">
+            <img src="https://i.postimg.cc/T1F1K0bW/Ethereum.png" alt="Ethereum" class="small-image"/>
+            <p style="font-size: 0.8em"><a href="https://dtcc2023.pythonanywhere.com/?db={{ data.upstreamDB }}&id={{data.upstream}}">Previous Lifecycle</a></p>
+            </div>
+          </div>
+          <div class="time-left">
+            <img src="https://i.postimg.cc/prpyV4mH/clock-selection-no-bg.png" alt="clock" class="small-image"/>
+            <p id='modifiedDate' style="font-size: 0.8em">Updated {{ data.modifiedDate }}</p>
+          </div>
+        </div>
+      </main>
+      <div class="card-attribute">
+        <img src="https://i.postimg.cc/SRYbQ4bm/image.jpg" alt="avatar" class="small-avatar"/>
+        <!-- To delete avatar, use: https://postimg.cc/delete/dbrch1rd/b52c287f-->
+        <p>Creation of <span><u>Database Group</u></span></p>
+      </div>
+  </div>
+
+  <div id="download" class="attribution">
+    Developed by <a>Database Group</a> @<a href="https://cea.ibi.ethz.ch/">DT4CC2023 CEA</a>.
+    <p>Download <a href="https://dtcc2023.pythonanywhere.com/database?db={{ data.db }}">CSV</a></p>
+  </div>
+
+
+  <script type="text/javascript">
+    var data= JSON.parse('{{data | tojson}}');
+    //console.log(data)
+    //if( data["ID"] == "404"  ||  data["ID"] == "") {
+    if( data["db"] == "000" ) {
+        document.getElementById("information").style.display = 'none';
+        document.getElementById("download").style.display = 'none';
+    }
+
+    for (var key in data) {
+　　  if( data[key] == "" && document.getElementById(key) != null) {
+        //console.log(key)
+        document.getElementById(key).style.display = 'none';
+      }
+    }
+  </script>
+</body>
+
+</html>
