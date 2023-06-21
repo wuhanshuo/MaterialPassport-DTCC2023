@@ -10,12 +10,12 @@ The website is developed using *Flask* and deployed on *PythonAnywhere*.
     ├── static/
     │   ├── icon.png
     │   ├── database/
-    │   │   ├── 000/
+    │   │   ├── 0/
     │   │   │   └── img/
-    │   │   └── 001/
+    │   │   └── 1/
     │   │   │   ├── img/
     │   │   │   └── 001.csv
-    │   │   └── 002/
+    │   │   └── 2/
     │   │       ├── img/
     │   │       └── 002.csv
     │   └── static/
