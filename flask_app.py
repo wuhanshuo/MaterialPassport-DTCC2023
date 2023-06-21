@@ -1,6 +1,6 @@
 """
-# Developed by Hanshuo Wu. For DT4C^2 FS2023 by CEA@ETH.
-@Author: Database Group @ DT4C^2, CEA , ETH
+# For DT4C^2 FS2023 by CEA@ETH.
+@Author: Database Group of DT4C^2.
 """
 
 from flask import Flask, render_template, request, send_file
