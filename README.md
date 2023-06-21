@@ -5,21 +5,21 @@ Group Members: Araceli Rodriguez Vallejo, Emma Zeindl Cronin, Hanshuo Wu, Lukas 
 
 The website is developed using _Flask and deployed on _PythonAnywhere.  
 
-  mysite
-  ├── static/
-  │   ├── icon.png
-  │   ├── database/
-  │   │   ├── 000/
-  │   │   │   └── img/
-  │   │   └── 001/
-  │   │   │   ├── img/
-  │   │   │   └── 001.csv
-  │   │   └── 002/
-  │   │       ├── img/
-  │   │       └── 002.csv
-  │   └── static/
-  │       └── style.css
-  ├── templates/
-  │   └── index.html
-  ├── flask_app.py
-  └── readme.md
+    mysite
+    ├── static/
+    │   ├── icon.png
+    │   ├── database/
+    │   │   ├── 000/
+    │   │   │   └── img/
+    │   │   └── 001/
+    │   │   │   ├── img/
+    │   │   │   └── 001.csv
+    │   │   └── 002/
+    │   │       ├── img/
+    │   │       └── 002.csv
+    │   └── static/
+    │       └── style.css
+    ├── templates/
+    │   └── index.html
+    ├── flask_app.py
+    └── readme.md
