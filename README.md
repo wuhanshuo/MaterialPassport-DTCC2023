@@ -3,7 +3,7 @@ The material passport and database of  DT4C^2 FS2023 of [CEA](https://cea.ibi.et
 
 Group Members: Araceli Rodriguez Vallejo, Emma Zeindl Cronin, Hanshuo Wu, Lukas Zink, Maxime Lanter, Yannik Reich  ## Strucutre
 
-The website is developed using _Flask and deployed on _PythonAnywhere.  
+The website is developed using *Flask* and deployed on *PythonAnywhere*.  
 
     mysite
     ├── static/
