@@ -1,11 +1,7 @@
 ID,upstreamDB,upstream,lifecycle,projectName,element,location,material,height,length,width,area,volume,mass,epicMaterial,epicUnit,epicEmbodiedEnergy,epicEmbodiedWater,embodiedEmission,density,embodiedEnergy,embodiedWater,embodiedEmission,manuDate,manuPlace,installDate,removalDate,owner,value,connection,remarks,modifiedDate
-"Unique, integer. [A corresponding image must exist]","Unique, integer."," <upstream id>, if reused.
-must exists in Column A",Integer,String,String,String,String,"integer, mm",Integer,Integer,Number ,Number,Number,String,String,integer,integer,integer,"Number, kg/m3",integer,integer,integer,dd.mm.yyyy,String,dd.mm.yyyy / yyyy,dd.mm.yyyy / yyyy,String,Integer,"Unique, Integer, 
-must exists in Column A","String, max 50 words",dd.mm.yyyy
-ID,Upstream Database ID,UpstreamID,Life cycle,Project Name,Element,description or location,Material type,Height (mm),Length (mm),Width (mm),Area (m2),Volume (m3),Mass (kg),EPiC db - material,EPiC db - functional unit,EPiC db - Embodied Energy,EPiC db - Embodied Water,EPiC db - Embodied GHG Emissions,Density,Embodied Energy,Embodied Water,Embodied GHG Emissions,Manufacture date,Manufacture Place,Installation date,Removal date,Owner,Value at installation (CHF),Connectced to (ids),Remarks,Last update
-1009,1,1000,2,Triangular Pavillion,truss,truss walls lower east,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,,,21.06.2023
-1010,1,1000,2,Triangular Pavillion,truss,truss walls lower west,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,,,21.06.2023
-1011,1,1000,2,Triangular Pavillion,truss,truss walls lower south,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,,,21.06.2023
+1009,1,1000,2,Triangular Pavillion,truss,truss walls lower east,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1010,,21.06.2023
+1010,1,1000,2,Triangular Pavillion,truss,truss walls lower west,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1011,,21.06.2023
+1011,1,1000,2,Triangular Pavillion,truss,truss walls lower south,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1009,,21.06.2023
 1012,1,1000,2,Triangular Pavillion,truss,truss walls upper east,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,,,21.06.2023
 1013,1,1000,2,Triangular Pavillion,truss,truss walls upper west,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,,,21.06.2023
 1014,1,1000,2,Triangular Pavillion,truss,truss walls upper south,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,,,21.06.2023
