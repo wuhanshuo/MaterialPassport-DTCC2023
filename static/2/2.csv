@@ -55,4 +55,4 @@ ID,upstreamDB,upstream,lifecycle,projectName,element,location,material,height,le
 1059,1,1000,2,Triangular Pavillion,Connector,Lower - north (5),wood,,,,,,,Softwood kiln-dried,,,,,,,,,,,2023,,ETH Zurich,,1010,,23.06.2023
 1060,1,1000,2,Triangular Pavillion,Connector,Lower - west (6),wood,,,,,,,Softwood kiln-dried,,,,,,,,,,,2023,,ETH Zurich,,1011,,23.06.2023
 1061,,,2,Triangular Pavillion,Rock,,rock,,,,,0.92,2484,Dimension stone,kg,16.3,16.5,1.3,2700,40489,40986,3229,,,2023,,ETH Zurich,,1054,This is the rock in the middle.,23.06.2023
-1062,1,1000,2,Triangular Pavillion,deck,Group of deck,wood,20,,,58,1.16,,Softwood kiln-dried,m3,9704,13181,583,510,11257,15290,676,,,2023,,ETH Zurich,,1054,This is a group of wood boards.,23.06.2023
+1062,1,1000,2,Triangular Pavillion,deck,Group of deck,wood,20,,,58,1.16,,Softwood kiln-dried,m3,9704,13181,583,510,11257,15290,676,,,2023,,ETH Zurich,,1054,This is a group of wooded boards.,23.06.2023
