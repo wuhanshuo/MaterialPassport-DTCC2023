@@ -11,9 +11,11 @@ All other components can be accessed via the following URL format:
 
 <img width="600" alt="image" src="https://github.com/wuhanshuo/MaterialPassport-DTCC2023/assets/63944310/10479f21-a4d7-4f68-8129-001e889649d7">
 
+## Website Front-end  
 
 
-## Structure  
+
+## Website Back-end Structure  
     mysite
     ├── static/
     │   ├── icon.png
