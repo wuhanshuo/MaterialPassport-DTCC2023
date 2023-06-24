@@ -7,9 +7,10 @@ The website is developed using *Flask* and deployed on *PythonAnywhere*.
 
 Click [here](https://dtcc2023.pythonanywhere.com/?db=2&id=1009) to see the website of our material passports.  
 
-All components can be accessed via the following URL format:  
+All other components can be accessed via the following URL format:  
 
-<img width="880" alt="image" src="https://github.com/wuhanshuo/MaterialPassport-DTCC2023/assets/63944310/5e4253b1-0452-408d-963c-57751f4497ab">
+<img width="600" alt="image" src="https://github.com/wuhanshuo/MaterialPassport-DTCC2023/assets/63944310/10479f21-a4d7-4f68-8129-001e889649d7">
+
 
 
 ## Structure  
