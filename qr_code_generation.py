@@ -8,7 +8,7 @@ def generate_qr_code(project_id, item_id):
         error_correction=qrcode.constants.ERROR_CORRECT_Q,
         box_size=50,
         border=4,
-        image_factory=PyPNGImage
+        image_factory=qrcode.image.svg.SvgPathImage
     )
     project_id = str(project_id)
     item_id = str(item_id)
@@ -19,11 +19,9 @@ def generate_qr_code(project_id, item_id):
 
     img = qr.make_image().to_string(encoding='unicode')
     img = img.replace("fill=\"#000000\"", "fill=\"#0000ff\"")
-    f = open("qrcodes/" + str(item_id) + ".svg", "w")
+    f = open("qrcodes/" + item_id + ".svg", "w")
     f.write(img)
     f.close()
-    print(type(img))
-
 
 for i in range(1012, 1015):
     generate_qr_code(project_id=2, item_id=i)
