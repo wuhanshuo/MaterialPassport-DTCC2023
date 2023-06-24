@@ -12,9 +12,9 @@ def generate_qr_code(project_id, item_id):
     )
     project_id = str(project_id)
     item_id = str(item_id)
-    qr.add_data("https://dtcc2023.pythonanywhere.com/?db=" + project_id + "&id=" + item_id)
+    qr.add_data("dtcc2023.pythonanywhere.com/?db=" + project_id + "&id=" + item_id)
 
-    print('https://dtcc2023.pythonanywhere.com/?db=' + project_id + '&id=' + item_id)
+    print('dtcc2023.pythonanywhere.com/?db=' + project_id + '&id=' + item_id)
     qr.make(fit=True)
 
     img = qr.make_image().to_string(encoding='unicode')
