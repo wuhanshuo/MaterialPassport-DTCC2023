@@ -30,6 +30,5 @@ All other components can be accessed via the following URL format:
     │           ├── img/
     │           └── 2.csv
     ├── templates/
-    │   └── index.html
-    ├── flask_app.py
-    └── README.md
+    │   └── index.html 
+    └── flask_app.py
