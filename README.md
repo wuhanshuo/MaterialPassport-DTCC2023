@@ -5,7 +5,7 @@ Group Members: Araceli Rodriguez Vallejo, Emma Zeindl Cronin, Hanshuo Wu, Lukas 
 
 The website is developed using *Flask* and deployed on *PythonAnywhere*.  
 
-Click **[here]**(https://dtcc2023.pythonanywhere.com/?db=2&id=1009) to see the website of our material passports.  
+Click [here](https://dtcc2023.pythonanywhere.com/?db=2&id=1009) to see the website of our material passports.  
 
 All other components can be accessed via the following URL format:  
 
