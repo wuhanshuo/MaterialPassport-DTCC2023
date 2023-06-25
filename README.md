@@ -43,4 +43,8 @@ All other columns in the CSV file can be *NULL* if the information is missing, a
 
 ## QR Code Generator
 
-Use `qr_code_generation.py` to generate QR-code for each page automatically.
+Use `qr_code_generation.py` to generate QR-code for each page automatically.  
+
+Demo:  
+<img width="400" alt="image" src="https://github.com/wuhanshuo/MaterialPassport-DTCC2023/assets/63944310/d74bfd32-86c7-4fdb-9d2d-f351d0c19979">
+
