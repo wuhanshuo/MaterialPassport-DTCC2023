@@ -19,7 +19,7 @@ Each component can be identified uniquely via a project ID and a component ID.
 
 The project ID is the name of both the folder and the CSV file inside.  
 
-The component ID is locally unique in each CSV file, and is also the name of the corresponding image in the `img` folder. (i.e., The combination of project ID and component ID forms a compound unique key.)  
+The component ID is locally unique in each CSV file, and is also the name of the corresponding image in the `img` folder. (i.e., The combination of project ID and component ID forms a compound primary key.)  
 
 All other columns in the CSV file can be *NULL*, and all *NULL* attributes will not be rendered in the front-end webpage.  
 
