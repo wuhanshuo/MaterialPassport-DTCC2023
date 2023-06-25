@@ -19,7 +19,7 @@ def generate_qr_code(project_id, item_id):
 
     img = qr.make_image().to_string(encoding='unicode')
     img = img.replace("fill=\"#000000\"", "fill=\"#0000ff\"")
-    f = open("qrcodes/" + item_id + ".svg", "w")
+    f = open("qrcodes/" + item_id + ".svg", "w+")
     f.write(img)
     f.close()
 
