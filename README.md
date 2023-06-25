@@ -28,7 +28,7 @@ All other columns in the CSV file can be *NULL* if the information is missing, a
     mysite
     ├── static/
     │   ├── icon.png
-    │   ├── database/
+    │   └── database/
     │       ├── 0/
     │       │   └── img/
     │       └── 1/
