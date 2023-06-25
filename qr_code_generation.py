@@ -23,5 +23,5 @@ def generate_qr_code(project_id, item_id):
     f.write(img)
     f.close()
 
-for i in range(1012, 1015):
+for i in range(1006, 1064):
     generate_qr_code(project_id=2, item_id=i)
