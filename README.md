@@ -40,3 +40,7 @@ All other columns in the CSV file can be *NULL* if the information is missing, a
     ├── templates/
     │   └── index.html 
     └── flask_app.py
+
+## QR Code Generator
+
+Use `qr_code_generation.py` to generate QR-code for each page automatically.
