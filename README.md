@@ -47,6 +47,7 @@ Use `qr_code_generation.py` to generate QR-code for each page automatically.
 
 Demo:  
 
-<img width="175" alt="image" src="https://github.com/wuhanshuo/MaterialPassport-DTCC2023/assets/63944310/e1f0571b-0e0b-4146-bda6-1590113b2f02">
+<img width="200" alt="image" src="https://github.com/wuhanshuo/MaterialPassport-DTCC2023/assets/63944310/dc5d4a28-9c27-4855-aacb-673e888d8d33">
+
 
 
