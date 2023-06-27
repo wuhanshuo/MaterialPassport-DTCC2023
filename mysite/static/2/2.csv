@@ -1,59 +1,59 @@
 ID,upstreamDB,upstream,lifecycle,projectName,element,location,material,height,length,width,area,volume,mass,epicMaterial,epicUnit,epicEmbodiedEnergy,epicEmbodiedWater,embodiedEmission,density,embodiedEnergy,embodiedWater,embodiedEmission,manuDate,manuPlace,installDate,removalDate,owner,value,connection,remarks,modifiedDate
-1006,1,1000,2,Triangular Pavillion,truss,truss ramp east (upper),wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1015,Two trusses are nailed together as a ramp.,21.06.2023
-1007,1,1000,2,Triangular Pavillion,truss,truss ramp west (upper),wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1016,Two trusses are nailed together as a ramp.,21.06.2023
-1008,1,1000,2,Triangular Pavillion,truss,truss ramp south (upper),wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1017,Two trusses are nailed together as a ramp.,21.06.2023
-1009,1,1000,2,Triangular Pavillion,truss,truss walls lower east,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1010,,21.06.2023
-1010,1,1000,2,Triangular Pavillion,truss,truss walls lower west,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1011,,21.06.2023
-1011,1,1000,2,Triangular Pavillion,truss,truss walls lower south,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1009,,21.06.2023
-1012,1,1000,2,Triangular Pavillion,truss,truss walls upper east,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1013,,21.06.2023
-1013,1,1000,2,Triangular Pavillion,truss,truss walls upper west,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1014,,21.06.2023
-1014,1,1000,2,Triangular Pavillion,truss,truss walls upper south,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1012,,21.06.2023
-1015,1,1000,2,Triangular Pavillion,truss,truss ramp east (lower),wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1006,Two trusses are nailed together as a ramp.,21.06.2023
-1016,1,1000,2,Triangular Pavillion,truss,truss ramp west (lower),wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1007,Two trusses are nailed together as a ramp.,21.06.2023
-1017,1,1000,2,Triangular Pavillion,truss,truss ramp south (lower),wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1008,Two trusses are nailed together as a ramp.,21.06.2023
-1018,,,2,Triangular Pavillion,steel foundation,steel foundation - corner south (1),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1030,,21.06.2023
-1019,,,2,Triangular Pavillion,steel foundation,steel foundation (2),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1031,,21.06.2023
-1020,,,2,Triangular Pavillion,steel foundation,steel foundation (3),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1032,,21.06.2023
-1021,,,2,Triangular Pavillion,steel foundation,steel foundation - corner north (1),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1033,,21.06.2023
-1022,,,2,Triangular Pavillion,steel foundation,steel foundation (5),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1034,,21.06.2023
-1023,,,2,Triangular Pavillion,steel foundation,steel foundation (6),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1035,,21.06.2023
-1024,,,2,Triangular Pavillion,steel foundation,steel foundation - corner west (1),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1036,,21.06.2023
-1025,,,2,Triangular Pavillion,steel foundation,steel foundation (8),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1037,,21.06.2023
-1026,,,2,Triangular Pavillion,steel foundation,steel foundation (9),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1038,,21.06.2023
-1027,,,2,Triangular Pavillion,steel foundation,internal steel foundation - east (10),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1039,,21.06.2023
-1028,,,2,Triangular Pavillion,steel foundation,internal steel foundation - west (11),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1040,,21.06.2023
-1029,,,2,Triangular Pavillion,steel foundation,internal steel foundation - south(12),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1041,,21.06.2023
-1030,1,1000,2,Triangular Pavillion,wooden stud on foundation,wooden stud on foundation - corner south (1),wood,,420,,0.0144,0.006048,,Softwood kiln-dried,m3,9704,13181,583,510,59,80,4,,,2023,,ETH Zurich,,1018,,21.06.2023
-1031,1,1000,2,Triangular Pavillion,wooden stud on foundation,wooden stud on foundation (2),wood,,410,,0.0144,0.005904,,Softwood kiln-dried,m3,9704,13181,583,510,57,78,3,,,2023,,ETH Zurich,,1019,,21.06.2023
-1032,1,1000,2,Triangular Pavillion,wooden stud on foundation,wooden stud on foundation (3),wood,,405,,0.0144,0.005832,,Softwood kiln-dried,m3,9704,13181,583,510,57,77,3,,,2023,,ETH Zurich,,1020,,21.06.2023
-1033,1,1000,2,Triangular Pavillion,wooden stud on foundation,wooden stud on foundation - corner north (1),wood,,400,,0.0144,0.00576,,Softwood kiln-dried,m3,9704,13181,583,510,56,76,3,,,2023,,ETH Zurich,,1021,,21.06.2023
-1034,1,1000,2,Triangular Pavillion,wooden stud on foundation,wooden stud on foundation (5),wood,,360,,0.0144,0.005184,,Softwood kiln-dried,m3,9704,13181,583,510,50,68,3,,,2023,,ETH Zurich,,1022,,21.06.2023
-1035,1,1000,2,Triangular Pavillion,wooden stud on foundation,wooden stud on foundation (6),wood,,490,,0.0144,0.007056,,Softwood kiln-dried,m3,9704,13181,583,510,68,93,4,,,2023,,ETH Zurich,,1023,,21.06.2023
-1036,1,1000,2,Triangular Pavillion,wooden stud on foundation,wooden stud on foundation - corner west (1),wood,,580,,0.0144,0.008352,,Softwood kiln-dried,m3,9704,13181,583,510,81,110,5,,,2023,,ETH Zurich,,1024,,21.06.2023
-1037,1,1000,2,Triangular Pavillion,wooden stud on foundation,wooden stud on foundation (8),wood,,540,,0.0144,0.007776,,Softwood kiln-dried,m3,9704,13181,583,510,75,102,5,,,2023,,ETH Zurich,,1025,,21.06.2023
-1038,1,1000,2,Triangular Pavillion,wooden stud on foundation,wooden stud on foundation (9),wood,,410,,0.0144,0.005904,,Softwood kiln-dried,m3,9704,13181,583,510,57,78,3,,,2023,,ETH Zurich,,1026,,21.06.2023
-1039,1,1000,2,Triangular Pavillion,wooden stud on foundation,wooden stud on internal foundation - east (10),wood,,410,,0.0144,0.005904,,Softwood kiln-dried,m3,9704,13181,583,510,57,78,3,,,2023,,ETH Zurich,,1027,,21.06.2023
-1040,1,1000,2,Triangular Pavillion,wooden stud on foundation,wooden stud on internal foundation - west (11),wood,,490,,0.0144,0.007056,,Softwood kiln-dried,m3,9704,13181,583,510,68,93,4,,,2023,,ETH Zurich,,1028,,21.06.2023
-1041,1,1000,2,Triangular Pavillion,wooden stud on foundation,wooden stud on internal foundation - south(12),wood,,560,,0.0144,0.008064,,Softwood kiln-dried,m3,9704,13181,583,510,78,106,5,,,2023,,ETH Zurich,,1029,,21.06.2023
-1042,1,1000,2,Triangular Pavillion,wooden foundation beam,external wooden beam - east (1),wood,245,7360,140,,0.252448,,Softwood kiln-dried,m3,9704,13181,583,510,2450,3328,147,,,2023,,ETH Zurich,,1043,,22.06.2023
-1043,1,1000,2,Triangular Pavillion,wooden foundation beam,external wooden beam - west (2),wood,245,7360,140,,0.252448,,Softwood kiln-dried,m3,9704,13181,583,510,2450,3328,147,,,2023,,ETH Zurich,,1044,,22.06.2023
-1044,1,1000,2,Triangular Pavillion,wooden foundation beam,external wooden beam - south (3),wood,245,7360,140,,0.252448,,Softwood kiln-dried,m3,9704,13181,583,510,2450,3328,147,,,2023,,ETH Zurich,,1042,,22.06.2023
-1045,1,1000,2,Triangular Pavillion,wooden foundation beam,internal wooden beam - east (1),wood,140,4700,110,,0.07238,,Softwood kiln-dried,m3,9704,13181,583,510,702,954,42,,,2023,,ETH Zurich,,1046,,22.06.2023
-1046,1,1000,2,Triangular Pavillion,wooden foundation beam,internal wooden beam - west (2),wood,140,4700,110,,0.07238,,Softwood kiln-dried,m3,9704,13181,583,510,702,954,42,,,2023,,ETH Zurich,,1047,,22.06.2023
-1047,1,1000,2,Triangular Pavillion,wooden foundation beam,internal wooden beam - south (3),wood,140,4700,110,,0.07238,,Softwood kiln-dried,m3,9704,13181,583,510,702,954,42,,,2023,,ETH Zurich,,1045,,22.06.2023
-1048,1,1000,2,Triangular Pavillion,wooden foundation beam,short wooden beam - east (1),wood,140,1700,120,,0.02856,,Softwood kiln-dried,m3,9704,13181,583,510,277,376,17,,,2023,,ETH Zurich,,1049,,22.06.2023
-1049,1,1000,2,Triangular Pavillion,wooden foundation beam,short wooden beam - east (2),wood,120,550,60,,0.00396,,Softwood kiln-dried,m3,9704,13181,583,510,38,52,2,,,2023,,ETH Zurich,,1048,,22.06.2023
-1050,1,1000,2,Triangular Pavillion,wooden foundation beam,short wooden beam - north (3),wood,140,1700,120,,0.02856,,Softwood kiln-dried,m3,9704,13181,583,510,277,376,17,,,2023,,ETH Zurich,,1051,,22.06.2023
-1051,1,1000,2,Triangular Pavillion,wooden foundation beam,short wooden beam - north (4),wood,120,550,60,,0.00396,,Softwood kiln-dried,m3,9704,13181,583,510,38,52,2,,,2023,,ETH Zurich,,1050,,22.06.2023
-1052,1,1000,2,Triangular Pavillion,wooden foundation beam,short wooden beam - west (5),wood,140,1700,120,,0.02856,,Softwood kiln-dried,m3,9704,13181,583,510,277,376,17,,,2023,,ETH Zurich,,1053,,22.06.2023
-1053,1,1000,2,Triangular Pavillion,wooden foundation beam,short wooden beam - west (6),wood,120,550,60,,0.00396,,Softwood kiln-dried,m3,9704,13181,583,510,38,52,2,,,2023,,ETH Zurich,,1052,,22.06.2023
-1054,1,1000,2,Triangular Pavillion,connector,connector of the stone in the middle,wood,,,,,,,Softwood kiln-dried,,,,,,,,,,,2023,,ETH Zurich,,1061,,23.06.2023
-1055,1,1000,2,Triangular Pavillion,connector,upper - east (1),wood,,,,,,,Softwood kiln-dried,,,,,,,,,,,2023,,ETH Zurich,,1012,,23.06.2023
-1056,1,1000,2,Triangular Pavillion,connector,upper - north (2),wood,,,,,,,Softwood kiln-dried,,,,,,,,,,,2023,,ETH Zurich,,1013,,23.06.2023
-1057,1,1000,2,Triangular Pavillion,connector,upper - west (3),wood,,,,,,,Softwood kiln-dried,,,,,,,,,,,2023,,ETH Zurich,,1014,,23.06.2023
-1058,1,1000,2,Triangular Pavillion,connector,lower - east (4),wood,,,,,,,Softwood kiln-dried,,,,,,,,,,,2023,,ETH Zurich,,1009,,23.06.2023
-1059,1,1000,2,Triangular Pavillion,connector,lower - north (5),wood,,,,,,,Softwood kiln-dried,,,,,,,,,,,2023,,ETH Zurich,,1010,,23.06.2023
-1060,1,1000,2,Triangular Pavillion,connector,lower - west (6),wood,,,,,,,Softwood kiln-dried,,,,,,,,,,,2023,,ETH Zurich,,1011,,23.06.2023
-1061,,,2,Triangular Pavillion,Rock,,rock,,,,,0.92,2484,Dimension stone,kg,16.3,16.5,1.3,2700,40489,40986,3229,,,2023,,ETH Zurich,,1054,This is the rock in the middle.,23.06.2023
-1062,1,1000,2,Triangular Pavillion,deck,group of deck boards,wood,20,,,58,1.16,,Softwood kiln-dried,m3,9704,13181,583,510,11257,15290,676,,,2023,,ETH Zurich,,1054,This is a group of wooden boards.,23.06.2023
-1063,,,2,Triangular Pavillion,stone tiles,group of 24 stone tiles under the steel foundations,concrete,4,40,62,,,,,,,,,,,,,,,2023,,ETH Zurich,,,This is a group of 24 stone tiles. Two tiles are placed under each steel foundation.,23.06.2023
+1006,1,1000,2,Circûbi,truss,truss ramp east (upper),wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1015,Two trusses are nailed together as a ramp.,21.06.2023
+1007,1,1000,2,Circûbi,truss,truss ramp west (upper),wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1016,Two trusses are nailed together as a ramp.,21.06.2023
+1008,1,1000,2,Circûbi,truss,truss ramp south (upper),wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1017,Two trusses are nailed together as a ramp.,21.06.2023
+1009,1,1000,2,Circûbi,truss,truss walls lower east,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1010,,21.06.2023
+1010,1,1000,2,Circûbi,truss,truss walls lower west,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1011,,21.06.2023
+1011,1,1000,2,Circûbi,truss,truss walls lower south,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1009,,21.06.2023
+1012,1,1000,2,Circûbi,truss,truss walls upper east,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1013,,21.06.2023
+1013,1,1000,2,Circûbi,truss,truss walls upper west,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1014,,21.06.2023
+1014,1,1000,2,Circûbi,truss,truss walls upper south,wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1012,,21.06.2023
+1015,1,1000,2,Circûbi,truss,truss ramp east (lower),wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1006,Two trusses are nailed together as a ramp.,21.06.2023
+1016,1,1000,2,Circûbi,truss,truss ramp west (lower),wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1007,Two trusses are nailed together as a ramp.,21.06.2023
+1017,1,1000,2,Circûbi,truss,truss ramp south (lower),wood,,,,,0.10285,,Softwood kiln-dried,m3,9704,13181,583,510,998,1356,60,,Zurich,2023,,ETH Zurich,,1008,Two trusses are nailed together as a ramp.,21.06.2023
+1018,,,2,Circûbi,steel foundation,steel foundation - corner south (1),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1030,,21.06.2023
+1019,,,2,Circûbi,steel foundation,steel foundation (2),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1031,,21.06.2023
+1020,,,2,Circûbi,steel foundation,steel foundation (3),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1032,,21.06.2023
+1021,,,2,Circûbi,steel foundation,steel foundation - corner north (1),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1033,,21.06.2023
+1022,,,2,Circûbi,steel foundation,steel foundation (5),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1034,,21.06.2023
+1023,,,2,Circûbi,steel foundation,steel foundation (6),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1035,,21.06.2023
+1024,,,2,Circûbi,steel foundation,steel foundation - corner west (1),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1036,,21.06.2023
+1025,,,2,Circûbi,steel foundation,steel foundation (8),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1037,,21.06.2023
+1026,,,2,Circûbi,steel foundation,steel foundation (9),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1038,,21.06.2023
+1027,,,2,Circûbi,steel foundation,internal steel foundation - east (10),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1039,,21.06.2023
+1028,,,2,Circûbi,steel foundation,internal steel foundation - west (11),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1040,,21.06.2023
+1029,,,2,Circûbi,steel foundation,internal steel foundation - south(12),steel,,,0.008,2.5415,,0.020332,Hot rolled galvanised structural steel,kg,43,43.2,3.3,7850,109,110,8,,,2023,,ETH Zurich,,1041,,21.06.2023
+1030,1,1000,2,Circûbi,wooden stud on foundation,wooden stud on foundation - corner south (1),wood,,420,,0.0144,0.006048,,Softwood kiln-dried,m3,9704,13181,583,510,59,80,4,,,2023,,ETH Zurich,,1018,,21.06.2023
+1031,1,1000,2,Circûbi,wooden stud on foundation,wooden stud on foundation (2),wood,,410,,0.0144,0.005904,,Softwood kiln-dried,m3,9704,13181,583,510,57,78,3,,,2023,,ETH Zurich,,1019,,21.06.2023
+1032,1,1000,2,Circûbi,wooden stud on foundation,wooden stud on foundation (3),wood,,405,,0.0144,0.005832,,Softwood kiln-dried,m3,9704,13181,583,510,57,77,3,,,2023,,ETH Zurich,,1020,,21.06.2023
+1033,1,1000,2,Circûbi,wooden stud on foundation,wooden stud on foundation - corner north (1),wood,,400,,0.0144,0.00576,,Softwood kiln-dried,m3,9704,13181,583,510,56,76,3,,,2023,,ETH Zurich,,1021,,21.06.2023
+1034,1,1000,2,Circûbi,wooden stud on foundation,wooden stud on foundation (5),wood,,360,,0.0144,0.005184,,Softwood kiln-dried,m3,9704,13181,583,510,50,68,3,,,2023,,ETH Zurich,,1022,,21.06.2023
+1035,1,1000,2,Circûbi,wooden stud on foundation,wooden stud on foundation (6),wood,,490,,0.0144,0.007056,,Softwood kiln-dried,m3,9704,13181,583,510,68,93,4,,,2023,,ETH Zurich,,1023,,21.06.2023
+1036,1,1000,2,Circûbi,wooden stud on foundation,wooden stud on foundation - corner west (1),wood,,580,,0.0144,0.008352,,Softwood kiln-dried,m3,9704,13181,583,510,81,110,5,,,2023,,ETH Zurich,,1024,,21.06.2023
+1037,1,1000,2,Circûbi,wooden stud on foundation,wooden stud on foundation (8),wood,,540,,0.0144,0.007776,,Softwood kiln-dried,m3,9704,13181,583,510,75,102,5,,,2023,,ETH Zurich,,1025,,21.06.2023
+1038,1,1000,2,Circûbi,wooden stud on foundation,wooden stud on foundation (9),wood,,410,,0.0144,0.005904,,Softwood kiln-dried,m3,9704,13181,583,510,57,78,3,,,2023,,ETH Zurich,,1026,,21.06.2023
+1039,1,1000,2,Circûbi,wooden stud on foundation,wooden stud on internal foundation - east (10),wood,,410,,0.0144,0.005904,,Softwood kiln-dried,m3,9704,13181,583,510,57,78,3,,,2023,,ETH Zurich,,1027,,21.06.2023
+1040,1,1000,2,Circûbi,wooden stud on foundation,wooden stud on internal foundation - west (11),wood,,490,,0.0144,0.007056,,Softwood kiln-dried,m3,9704,13181,583,510,68,93,4,,,2023,,ETH Zurich,,1028,,21.06.2023
+1041,1,1000,2,Circûbi,wooden stud on foundation,wooden stud on internal foundation - south(12),wood,,560,,0.0144,0.008064,,Softwood kiln-dried,m3,9704,13181,583,510,78,106,5,,,2023,,ETH Zurich,,1029,,21.06.2023
+1042,1,1000,2,Circûbi,wooden foundation beam,external wooden beam - east (1),wood,245,7360,140,,0.252448,,Softwood kiln-dried,m3,9704,13181,583,510,2450,3328,147,,,2023,,ETH Zurich,,1043,,22.06.2023
+1043,1,1000,2,Circûbi,wooden foundation beam,external wooden beam - west (2),wood,245,7360,140,,0.252448,,Softwood kiln-dried,m3,9704,13181,583,510,2450,3328,147,,,2023,,ETH Zurich,,1044,,22.06.2023
+1044,1,1000,2,Circûbi,wooden foundation beam,external wooden beam - south (3),wood,245,7360,140,,0.252448,,Softwood kiln-dried,m3,9704,13181,583,510,2450,3328,147,,,2023,,ETH Zurich,,1042,,22.06.2023
+1045,1,1000,2,Circûbi,wooden foundation beam,internal wooden beam - east (1),wood,140,4700,110,,0.07238,,Softwood kiln-dried,m3,9704,13181,583,510,702,954,42,,,2023,,ETH Zurich,,1046,,22.06.2023
+1046,1,1000,2,Circûbi,wooden foundation beam,internal wooden beam - west (2),wood,140,4700,110,,0.07238,,Softwood kiln-dried,m3,9704,13181,583,510,702,954,42,,,2023,,ETH Zurich,,1047,,22.06.2023
+1047,1,1000,2,Circûbi,wooden foundation beam,internal wooden beam - south (3),wood,140,4700,110,,0.07238,,Softwood kiln-dried,m3,9704,13181,583,510,702,954,42,,,2023,,ETH Zurich,,1045,,22.06.2023
+1048,1,1000,2,Circûbi,wooden foundation beam,short wooden beam - east (1),wood,140,1700,120,,0.02856,,Softwood kiln-dried,m3,9704,13181,583,510,277,376,17,,,2023,,ETH Zurich,,1049,,22.06.2023
+1049,1,1000,2,Circûbi,wooden foundation beam,short wooden beam - east (2),wood,120,550,60,,0.00396,,Softwood kiln-dried,m3,9704,13181,583,510,38,52,2,,,2023,,ETH Zurich,,1048,,22.06.2023
+1050,1,1000,2,Circûbi,wooden foundation beam,short wooden beam - north (3),wood,140,1700,120,,0.02856,,Softwood kiln-dried,m3,9704,13181,583,510,277,376,17,,,2023,,ETH Zurich,,1051,,22.06.2023
+1051,1,1000,2,Circûbi,wooden foundation beam,short wooden beam - north (4),wood,120,550,60,,0.00396,,Softwood kiln-dried,m3,9704,13181,583,510,38,52,2,,,2023,,ETH Zurich,,1050,,22.06.2023
+1052,1,1000,2,Circûbi,wooden foundation beam,short wooden beam - west (5),wood,140,1700,120,,0.02856,,Softwood kiln-dried,m3,9704,13181,583,510,277,376,17,,,2023,,ETH Zurich,,1053,,22.06.2023
+1053,1,1000,2,Circûbi,wooden foundation beam,short wooden beam - west (6),wood,120,550,60,,0.00396,,Softwood kiln-dried,m3,9704,13181,583,510,38,52,2,,,2023,,ETH Zurich,,1052,,22.06.2023
+1054,1,1000,2,Circûbi,connector,connector of the stone in the middle,wood,,,,,,,Softwood kiln-dried,,,,,,,,,,,2023,,ETH Zurich,,1061,,23.06.2023
+1055,1,1000,2,Circûbi,connector,upper - east (1),wood,,,,,,,Softwood kiln-dried,,,,,,,,,,,2023,,ETH Zurich,,1012,,23.06.2023
+1056,1,1000,2,Circûbi,connector,upper - north (2),wood,,,,,,,Softwood kiln-dried,,,,,,,,,,,2023,,ETH Zurich,,1013,,23.06.2023
+1057,1,1000,2,Circûbi,connector,upper - west (3),wood,,,,,,,Softwood kiln-dried,,,,,,,,,,,2023,,ETH Zurich,,1014,,23.06.2023
+1058,1,1000,2,Circûbi,connector,lower - east (4),wood,,,,,,,Softwood kiln-dried,,,,,,,,,,,2023,,ETH Zurich,,1009,,23.06.2023
+1059,1,1000,2,Circûbi,connector,lower - north (5),wood,,,,,,,Softwood kiln-dried,,,,,,,,,,,2023,,ETH Zurich,,1010,,23.06.2023
+1060,1,1000,2,Circûbi,connector,lower - west (6),wood,,,,,,,Softwood kiln-dried,,,,,,,,,,,2023,,ETH Zurich,,1011,,23.06.2023
+1061,,,2,Circûbi,Rock,,rock,,,,,0.92,2484,Dimension stone,kg,16.3,16.5,1.3,2700,40489,40986,3229,,,2023,,ETH Zurich,,1054,This is the rock in the middle.,23.06.2023
+1062,1,1000,2,Circûbi,deck,group of deck boards,wood,20,,,58,1.16,,Softwood kiln-dried,m3,9704,13181,583,510,11257,15290,676,,,2023,,ETH Zurich,,1054,This is a group of wooden boards.,23.06.2023
+1063,,,2,Circûbi,stone tiles,group of 24 stone tiles under the steel foundations,concrete,4,40,62,,,,,,,,,,,,,,,2023,,ETH Zurich,,,This is a group of 24 stone tiles. Two tiles are placed under each steel foundation.,23.06.2023
