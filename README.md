@@ -9,7 +9,8 @@ Click [here](https://dtcc2023.pythonanywhere.com/?db=2&id=1009) to see the websi
 
 All other components can be accessed via the following URL format:  
 
-<img width="600" alt="image" src="https://github.com/wuhanshuo/MaterialPassport-DTCC2023/assets/63944310/d5735e8a-8d76-4a38-8786-95b1ec405531">
+<img width="600" alt="image" src="https://github.com/wuhanshuo/MaterialPassport-DTCC2023/assets/63944310/bb72f875-1dd9-4eb2-8159-873b74ab5ed6">
+
 
 
 
